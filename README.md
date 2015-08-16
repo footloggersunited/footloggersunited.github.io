@@ -1,4 +1,4 @@
-somerita
-========
+FootLoggers United
+==================
 
-static website for somerita
+static website for FLU
